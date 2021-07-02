@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-webapp",
+  "version": "1.0.0",
+  "description": "web App made with routing, databases, and third-party APIs in Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookiesDesign/nodejs-webApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webApp"
+  ],
+  "author": "CookiesDesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookiesDesign/nodejs-webApp/issues"
+  },
+  "homepage": "https://github.com/CookiesDesign/nodejs-webApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
