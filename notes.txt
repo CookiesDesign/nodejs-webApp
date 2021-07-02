@@ -1,0 +1,3 @@
+==========> Notas importantes <==========
+
+set DEBUG=* node app.js => Comando para realizar debug en Windows
